@@ -2,6 +2,7 @@
 #Rechner
 #20.02.2012 13:32:03
 #Jonarhan Wendler
+#ein test von isaak
 
 from math import sqrt
 print "******************************"
